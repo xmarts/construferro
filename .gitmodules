@@ -1,0 +1,3 @@
+[submodule "partner-routes-map-oin"]
+	path = partner-routes-map-oin
+	url = git@github.com:xmarts/partner-routes-map-oin.git
