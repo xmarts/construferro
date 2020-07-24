@@ -10,3 +10,6 @@
 [submodule "credit_limit_alert_update"]
 	path = credit_limit_alert_update
 	url = git@github.com:xmarts/credit_limit_alert_update.git
+[submodule "bi-pos-warehouse-management"]
+	path = bi-pos-warehouse-management
+	url = git@github.com:xmarts/bi-pos-warehouse-management.git
