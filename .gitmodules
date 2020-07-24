@@ -7,3 +7,6 @@
 [submodule "stock-routes-map-oin"]
 	path = stock-routes-map-oin
 	url = git@github.com:xmarts/stock-routes-map-oin.git
+[submodule "credit_limit_alert_update"]
+	path = credit_limit_alert_update
+	url = git@github.com:xmarts/credit_limit_alert_update.git
