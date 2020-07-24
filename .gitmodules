@@ -4,3 +4,6 @@
 [submodule "sale-routes-map-oin"]
 	path = sale-routes-map-oin
 	url = git@github.com:xmarts/sale-routes-map-oin.git
+[submodule "stock-routes-map-oin"]
+	path = stock-routes-map-oin
+	url = git@github.com:xmarts/stock-routes-map-oin.git
