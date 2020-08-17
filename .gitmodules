@@ -13,3 +13,8 @@
 [submodule "bi-pos-warehouse-management"]
 	path = bi-pos-warehouse-management
 	url = git@github.com:xmarts/bi-pos-warehouse-management.git
+
+[submodule "auto-payment-method"]
+	path = auto-payment-method
+	url = git@github.com:xmarts/auto-payment-method.git
+	branch = master
