@@ -18,3 +18,6 @@
 	path = auto-payment-method
 	url = git@github.com:xmarts/auto-payment-method.git
 	branch = master
+[submodule "l10n-mx-pos-global-invoice"]
+	path = l10n-mx-pos-global-invoice
+	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
