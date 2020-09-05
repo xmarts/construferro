@@ -27,3 +27,6 @@
 [submodule "bi-pos-reprint-reorder"]
 	path = bi-pos-reprint-reorder
 	url = git@github.com:xmarts/bi-pos-reprint-reorder.git
+[submodule "pos-orders-list"]
+	path = pos-orders-list
+	url = git@github.com:xmarts/pos-orders-list.git
