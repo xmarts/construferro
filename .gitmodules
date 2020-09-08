@@ -30,3 +30,6 @@
 [submodule "pos-orders-list"]
 	path = pos-orders-list
 	url = git@github.com:xmarts/pos-orders-list.git
+[submodule "clean-data"]
+	path = clean-data
+	url = git@github.com:xmarts/clean-data.git
