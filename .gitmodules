@@ -21,3 +21,9 @@
 [submodule "l10n-mx-pos-global-invoice"]
 	path = l10n-mx-pos-global-invoice
 	url = git@github.com:xmarts/l10n-mx-pos-global-invoice.git
+[submodule "pos-stocks"]
+	path = pos-stocks
+	url = git@github.com:xmarts/pos-stocks.git
+[submodule "pos-orders-list"]
+	path = pos-orders-list
+	url = git@github.com:xmarts/pos-orders-list.git
